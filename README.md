@@ -8,7 +8,7 @@ My objetive with building this project was to learn the basics of the new Materi
 
 ---
 
-### [See live version](https://shoppy-app-ruben.netlify.app/)
+### [See live version](https://shoppy-app.netlify.app/)
 
 ### Description
 
